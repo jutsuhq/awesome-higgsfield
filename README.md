@@ -103,6 +103,7 @@ Self-hosted tools that cover parts of what Higgsfield does.
 - [OpenCanvas](https://github.com/opencanvasai/OpenCanvas) - Bring-your-own-key canvas for image and video models.
 - [OpenJutsu](https://github.com/D3voz/openjutsu) - Local Genjutsu-style character swap on ComfyUI.
 - [Swapjutsu](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) - Mac app for Seedance 2.5 and Wan 2.2 Animate character swap.
+- [Kawarimi](https://github.com/jutsuhq/kawarimi-local-character-swap) - Local character swap for Windows and Linux: Wan 2.2 Animate on your own NVIDIA GPU through ComfyUI.
 - [Content Factory](https://github.com/jutsuhq/content-factory) - Open-source alternative to Higgsfield Content Factory: faceless What if videos made on a Mac.
 
 ## Guides
