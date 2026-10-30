@@ -96,7 +96,7 @@ Skills and prompt packs for Claude Code, Codex, Cursor and other coding agents.
 
 Self-hosted tools that cover parts of what Higgsfield does.
 
-- [Open Source Higgsfield](https://github.com/jutsuhq/open-source-higgsfield) - All 89 projects from ComfyUI's #OpenSourceHiggsfield challenge, grouped by task, with stars and licenses.
+- [Open Source Higgsfield](https://github.com/jutsuhq/open-source-higgsfield) - All 90 projects from ComfyUI's #OpenSourceHiggsfield challenge, grouped by task, with stars and licenses.
 - [Open Higgsfield](https://github.com/wide-trace/open-higgsfield) - Image and video studio with one prompt bar for many hosted models.
 - [HeliosGen](https://github.com/SegFault42/HeliosGen) - Self-hosted desktop app for visual image and video pipelines.
 - [BeatDesign](https://github.com/BeatAPI/BeatDesign) - Local-first AI canvas and timeline that any MCP agent can drive.
