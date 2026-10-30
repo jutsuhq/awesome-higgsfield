@@ -96,12 +96,15 @@ Skills and prompt packs for Claude Code, Codex, Cursor and other coding agents.
 
 Self-hosted tools that cover parts of what Higgsfield does.
 
+- [Open Source Higgsfield](https://github.com/jutsuhq/open-source-higgsfield) - All 89 projects from ComfyUI's #OpenSourceHiggsfield challenge, grouped by task, with stars and licenses.
 - [Open Higgsfield](https://github.com/wide-trace/open-higgsfield) - Image and video studio with one prompt bar for many hosted models.
 - [HeliosGen](https://github.com/SegFault42/HeliosGen) - Self-hosted desktop app for visual image and video pipelines.
 - [BeatDesign](https://github.com/BeatAPI/BeatDesign) - Local-first AI canvas and timeline that any MCP agent can drive.
 - [OpenStudio](https://github.com/clawnify/OpenStudio) - Image generation studio with a gallery and node-based workflows.
 - [OpenCanvas](https://github.com/opencanvasai/OpenCanvas) - Bring-your-own-key canvas for image and video models.
 - [OpenJutsu](https://github.com/D3voz/openjutsu) - Local Genjutsu-style character swap on ComfyUI.
+- [OpenField](https://github.com/wexloops/openfield) - Studio for video, stills and 3D where every app is a ComfyUI workflow on open weights.
+- [ComfyArt](https://github.com/jtydhr88/ComfyArt) - Design canvas with an agent, running image, video, audio and 3D on your own ComfyUI.
 - [Swapjutsu](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) - Mac app for Seedance 2.5 and Wan 2.2 Animate character swap.
 - [Kawarimi](https://github.com/jutsuhq/kawarimi-local-character-swap) - Local character swap for Windows and Linux: Wan 2.2 Animate on your own NVIDIA GPU through ComfyUI.
 - [Content Factory](https://github.com/jutsuhq/content-factory) - Open-source alternative to Higgsfield Content Factory: faceless What if videos made on a Mac.
