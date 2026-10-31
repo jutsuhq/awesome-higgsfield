@@ -143,3 +143,5 @@ Open-source projects made with Higgsfield.
 ## Contributing
 
 Contributions welcome. Read the [contribution guidelines](contributing.md) first.
+
+Maintained by [Jutsu Studio](https://jutsustudio.com/), the open-source Higgsfield desktop app for Mac ([GitHub](https://github.com/jutsuhq/jutsu-studio)).
