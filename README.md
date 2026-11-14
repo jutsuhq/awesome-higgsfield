@@ -83,6 +83,7 @@ Skills and prompt packs for Claude Code, Codex, Cursor and other coding agents.
 ## Apps and Clients
 
 - [Jutsu Studio](https://github.com/jutsuhq/jutsu-studio) - Native Mac app for the API with a job queue, price before each run, daily spending cap and a local library.
+- [Jutsu Studio for Windows and Linux](https://github.com/jutsuhq/higgsfield-desktop) - Desktop app for Windows and Linux with the same job queue, prices, daily spending cap and local library as the Mac app.
 - [Vireo](https://github.com/albertshiney/higgsfieldclone) - Hosted studio for every model the API exposes, with magic-link sign-in and Stripe credits.
 - [UGC Dashboard](https://github.com/harshith-vaddiparthy/UGC-dashboard) - Visual workflow dashboard for AI UGC videos on Higgsfield and OpenAI.
 - [CreatorOS Studio](https://github.com/thePloggy/CreatorOS-Studio) - Local creator studio that combines Higgsfield with ComfyUI.
