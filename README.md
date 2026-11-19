@@ -16,6 +16,7 @@ Open-source tools by [Jutsu Studio](https://jutsustudio.com/) for Higgsfield and
 - **MCP server for AI video generation:** [AI Media Router](https://github.com/jutsuhq/ai-media-router), Seedance, Kling, Veo, Wan and FLUX across 40+ providers with your own keys.
 - **Higgsfield API tools:** [Higgsfield Gateway](https://github.com/jutsuhq/higgsfield-gateway), a Cloudflare Workers gateway with spending caps, signed webhooks and a typed client.
 - **ComfyUI nodes for Seedance 2.5, Kling 4.0 and Genjutsu:** [ComfyUI-Higgsfield](https://github.com/jutsuhq/ComfyUI-Higgsfield), with the price on each node and a spending cap per run.
+- **Generate AI videos with Claude Code:** [claude-code-video-generation](https://github.com/jutsuhq/claude-code-video-generation), a skill for Seedance 2.5, Kling 4.0, Genjutsu and 80+ API models with the exact price checked and capped before every run.
 - **Claude Code skill for Seedance 2.5 prompts:** [Higgsfield Seedance Prompt Skill](https://github.com/jutsuhq/higgsfield-seedance-prompt-skill).
 - **Character swap:** [Swapjutsu](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) on a Mac, [Kawarimi](https://github.com/jutsuhq/kawarimi-local-character-swap) locally on an NVIDIA GPU (Windows and Linux).
 - **Faceless short videos on a Mac:** [Content Factory](https://github.com/jutsuhq/content-factory).
@@ -74,6 +75,7 @@ Skills and prompt packs for Claude Code, Codex, Cursor and other coding agents.
 
 ### Generation and Pipelines
 
+- [Claude Code Video Generation](https://github.com/jutsuhq/claude-code-video-generation) - Claude Code skill that generates video and images through the API with your own key, a price check and cap before every run, idempotent retries and a cost ledger.
 - [Higgsfield API Skill](https://github.com/cth9191/higgsfield-api-skill) - On-demand API generation for coding agents with model-specific docs and resumable jobs.
 - [Higgsfield Claude Skills](https://github.com/AKCodez/higgsfield-claude-skills) - Image generation, Seedance video and UGC ad pipeline skills for Claude Code.
 - [Higgsfield Content Pipeline](https://github.com/cfongai/higgsfield-content-pipeline) - Claude Code and Higgsfield set up as an automated video production studio.
