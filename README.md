@@ -6,8 +6,23 @@ Higgsfield gives one account access to dozens of video and image models through 
 
 This is an unofficial list. It is not affiliated with or endorsed by Higgsfield.
 
+## From the maintainers
+
+Open-source tools by [Jutsu Studio](https://jutsustudio.com/) for Higgsfield and AI video, by task:
+
+- **Higgsfield desktop app for Mac:** [Jutsu Studio](https://github.com/jutsuhq/jutsu-studio), a native macOS app and AI video generator for 14 Higgsfield models, with a bundled MCP server for Claude Code.
+- **Higgsfield desktop app for Windows and Linux:** [Jutsu Studio for Windows and Linux](https://github.com/jutsuhq/higgsfield-desktop).
+- **Higgsfield app for iPhone and iPad:** [Jutsu for iPhone](https://github.com/jutsuhq/jutsu-studio-ios).
+- **MCP server for AI video generation:** [AI Media Router](https://github.com/jutsuhq/ai-media-router), Seedance, Kling, Veo, Wan and FLUX across 40+ providers with your own keys.
+- **Higgsfield API tools:** [Higgsfield Gateway](https://github.com/jutsuhq/higgsfield-gateway), a Cloudflare Workers gateway with spending caps, signed webhooks and a typed client.
+- **Claude Code skill for Seedance 2.5 prompts:** [Higgsfield Seedance Prompt Skill](https://github.com/jutsuhq/higgsfield-seedance-prompt-skill).
+- **Character swap:** [Swapjutsu](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) on a Mac, [Kawarimi](https://github.com/jutsuhq/kawarimi-local-character-swap) locally on an NVIDIA GPU (Windows and Linux).
+- **Faceless short videos on a Mac:** [Content Factory](https://github.com/jutsuhq/content-factory).
+- **AI video and image API prices:** [ai-media-api-prices](https://github.com/jutsuhq/ai-media-api-prices), updated daily.
+
 ## Contents
 
+- [From the maintainers](#from-the-maintainers)
 - [Official](#official)
 - [SDKs and Libraries](#sdks-and-libraries)
 - [MCP Servers](#mcp-servers)
@@ -42,6 +57,8 @@ This is an unofficial list. It is not affiliated with or endorsed by Higgsfield.
 
 - [Higgsfield MCP Unified](https://github.com/Hikhakk/higgsfield-mcp-unified) - Local MCP server for the API with typed image and video models.
 - [hf-studio](https://github.com/Jjat00/hf-studio) - Self-hosted studio and MCP server on the Higgsfield and ElevenLabs APIs.
+- [Jutsu Studio MCP](https://github.com/jutsuhq/jutsu-studio/blob/main/skills/jutsu-studio/SKILL.md) - The `jutsu` MCP server bundled with the Jutsu Studio Mac app: agents generate Higgsfield videos and images within a daily budget.
+- [AI Media Router](https://github.com/jutsuhq/ai-media-router) - MCP server for AI video and image generation across 40+ providers: Seedance, Kling, Veo and Wan, the models Higgsfield runs, with your own keys.
 
 ## Agent Skills
 
@@ -84,6 +101,7 @@ Skills and prompt packs for Claude Code, Codex, Cursor and other coding agents.
 
 - [Jutsu Studio](https://github.com/jutsuhq/jutsu-studio) - Native Mac app for the API with a job queue, price before each run, daily spending cap and a local library.
 - [Jutsu Studio for Windows and Linux](https://github.com/jutsuhq/higgsfield-desktop) - Desktop app for Windows and Linux with the same job queue, prices, daily spending cap and local library as the Mac app.
+- [Jutsu for iPhone](https://github.com/jutsuhq/jutsu-studio-ios) - SwiftUI app for iPhone and iPad: motion transfer, character swap, restyle and images on your own Higgsfield account.
 - [Vireo](https://github.com/albertshiney/higgsfieldclone) - Hosted studio for every model the API exposes, with magic-link sign-in and Stripe credits.
 - [UGC Dashboard](https://github.com/harshith-vaddiparthy/UGC-dashboard) - Visual workflow dashboard for AI UGC videos on Higgsfield and OpenAI.
 - [CreatorOS Studio](https://github.com/thePloggy/CreatorOS-Studio) - Local creator studio that combines Higgsfield with ComfyUI.
@@ -97,7 +115,7 @@ Skills and prompt packs for Claude Code, Codex, Cursor and other coding agents.
 
 Self-hosted tools that cover parts of what Higgsfield does.
 
-- [Open Source Higgsfield](https://github.com/jutsuhq/open-source-higgsfield) - All 90 projects from ComfyUI's #OpenSourceHiggsfield challenge, grouped by task, with stars and licenses.
+- [Open Source Higgsfield](https://github.com/jutsuhq/open-source-higgsfield) - 120 open-source Higgsfield alternatives, 113 of them from ComfyUI's #OpenSourceHiggsfield challenge with its 16 prize winners, grouped by task, with stars and licenses.
 - [Open Higgsfield](https://github.com/wide-trace/open-higgsfield) - Image and video studio with one prompt bar for many hosted models.
 - [HeliosGen](https://github.com/SegFault42/HeliosGen) - Self-hosted desktop app for visual image and video pipelines.
 - [BeatDesign](https://github.com/BeatAPI/BeatDesign) - Local-first AI canvas and timeline that any MCP agent can drive.
@@ -122,7 +140,7 @@ Self-hosted tools that cover parts of what Higgsfield does.
 - [Pricing page](https://higgsfield.ai/pricing) - Official plans and credit packs.
 - [Higgsfield credits explained](https://jutsustudio.com/blog/higgsfield-credits-explained/) - What credits cost on each plan, how they expire and when the API is cheaper.
 - [Higgsfield price per second](https://jutsustudio.com/higgsfield-pricing/) - Every Higgsfield model priced per second of video on the API and on each plan.
-- [video-api-prices](https://github.com/jutsuhq/video-api-prices) - Daily JSON of AI video prices per second at Higgsfield and 30+ other providers.
+- [ai-media-api-prices](https://github.com/jutsuhq/ai-media-api-prices) - Daily JSON of AI video and image prices per second at Higgsfield and 30+ other providers.
 
 ## Showcase
 
