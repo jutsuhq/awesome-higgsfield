@@ -15,6 +15,7 @@ Open-source tools by [Jutsu Studio](https://jutsustudio.com/) for Higgsfield and
 - **Higgsfield app for iPhone and iPad:** [Jutsu for iPhone](https://github.com/jutsuhq/jutsu-studio-ios).
 - **MCP server for AI video generation:** [AI Media Router](https://github.com/jutsuhq/ai-media-router), Seedance, Kling, Veo, Wan and FLUX across 40+ providers with your own keys.
 - **Higgsfield API tools:** [Higgsfield Gateway](https://github.com/jutsuhq/higgsfield-gateway), a Cloudflare Workers gateway with spending caps, signed webhooks and a typed client.
+- **ComfyUI nodes for Seedance 2.5, Kling 4.0 and Genjutsu:** [ComfyUI-Higgsfield](https://github.com/jutsuhq/ComfyUI-Higgsfield), with the price on each node and a spending cap per run.
 - **Claude Code skill for Seedance 2.5 prompts:** [Higgsfield Seedance Prompt Skill](https://github.com/jutsuhq/higgsfield-seedance-prompt-skill).
 - **Character swap:** [Swapjutsu](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) on a Mac, [Kawarimi](https://github.com/jutsuhq/kawarimi-local-character-swap) locally on an NVIDIA GPU (Windows and Linux).
 - **Faceless short videos on a Mac:** [Content Factory](https://github.com/jutsuhq/content-factory).
@@ -108,6 +109,7 @@ Skills and prompt packs for Claude Code, Codex, Cursor and other coding agents.
 
 ## Integrations
 
+- [ComfyUI-Higgsfield](https://github.com/jutsuhq/ComfyUI-Higgsfield) - ComfyUI nodes for Seedance 2.5, Kling 4.0 and Genjutsu motion transfer with your own API key, a price badge and an estimate check before every run.
 - [ComfyUI Higgsfield Direct](https://github.com/jeremieLouvaert/ComfyUI-Higgsfield-Direct) - ComfyUI nodes for Higgsfield image and video models.
 - [Higgsfield API ComfyUI Nodes](https://github.com/w0ver/Higgsfield-api-comfyui-nodes) - Minimal ComfyUI nodes for the API.
 
